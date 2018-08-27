@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DVT Weather App</string>
+
+    <string name="json_object_name">main</string>
+    <string name="json_array_name">weather</string>
+
+
+    <string name="current_temperature">temp</string>
+    <string name="weather_content">main</string>
+    <string name="weather_description">description</string>
+    <string name="description_icon">icon</string>
+
+    <string name="min_temperature">temp_min</string>
+    <string name="max_temperature">temp_max</string>
+
+    <string name="clear_key">Clear</string>
+    <string name="clouds_key">Clouds</string>
+    <string name="sunny_key">Sunny</string>
+
+</resources>
+
